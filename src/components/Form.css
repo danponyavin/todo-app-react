@@ -1,0 +1,11 @@
+form input, form button {
+    padding: 0.5rem;
+    font-size: 2rem;
+    border: none;
+    background: rgb(221, 204, 204);
+}
+
+form button {
+    background: #67e3d5;
+    cursor: pointer;
+}
